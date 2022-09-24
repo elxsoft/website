@@ -1,1 +1,1 @@
-# this is elxsoft website repository .
+# this is elxsoft website repository
